@@ -1,0 +1,66 @@
+body {  
+    background-color:cornflowerblue
+  }
+
+h1 {
+    color: yellowgreen;
+    font-size: 45px;
+    text-align: center;
+    box-shadow : 40px;
+}
+li {
+      font-size: 15px;
+      color:black;
+
+}
+.text-1 {
+    color:lawngreen;
+}
+.text-2 {
+   color:palevioletred;
+}   
+.text-3  {
+    color:gold;
+}
+.text-4 {
+    color: darkorchid;
+}
+.text-5 {
+    color: violet;
+}
+.text-6 {
+    color:mediumvioletred;
+}
+.text-7 {
+    color: red
+}
+.photo-1 {
+    width: 500px;
+    height: 200px;
+    margin-left: 250px;
+}
+.photo-2 {
+    width: 550px;
+    height: 350px;
+    margin-left: 250px;
+}
+.photo-3 {
+    width: 600px;
+    height: 450px;
+    margin-left: 225px;
+}
+
+.linb {
+     text-decoration: none
+}
+
+
+
+
+
+
+
+
+
+
+
